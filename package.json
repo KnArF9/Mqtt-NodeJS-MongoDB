@@ -1,0 +1,17 @@
+{
+  "name": "mn",
+  "version": "1.0.0",
+  "main": "mqttNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "mqtt": "^3.0.0"
+  }
+}
